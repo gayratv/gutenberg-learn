@@ -39,8 +39,8 @@
     "gulp-wp-pot": "^2.3.6",
     "gulp-zip": "^5.0.1",
     "vinyl-named": "^1.1.0",
-    "webpack": "^4.41.6",
-    "webpack-stream": "^5.2.1",
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0",
     "yargs": "^15.1.0"
   }
 }
